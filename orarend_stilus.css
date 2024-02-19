@@ -1,0 +1,31 @@
+
+
+table, th, td {
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: rgb(25, 68, 133);
+  }
+  
+  /* Új CSS rész */
+  th {
+    background-color:rgb(143, 33, 132)
+    color green;
+    background-color: rgb(177, 22, 22);
+  }
+  
+  
+  td {
+    background-color: rgb(143, 33, 132);
+    color: rgb(225, 216, 36);
+  }
+
+  body{
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .Csengetések{
+    background-color: darkgrey;
+  }
+  
+
+
+  
